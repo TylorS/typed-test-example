@@ -1,0 +1,9 @@
+{
+  "name": "typed-browser-test-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@typed/test": "7.0.9"
+  }
+}
