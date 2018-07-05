@@ -1,9 +1,7 @@
 import { Options } from '@typed/test'
 
-const config: Options = {
+const options: Options = {
   mode: 'browser'
 }
 
-export default config 
-// or 
-// export = config
+export default options

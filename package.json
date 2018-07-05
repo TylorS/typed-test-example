@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "typed-test"
+  },
   "devDependencies": {
-    "@typed/test": "7.0.9"
+    "@typed/test": "7.1.2"
   }
 }
