@@ -7,6 +7,6 @@
     "test": "typed-test"
   },
   "devDependencies": {
-    "@typed/test": "7.1.2"
+    "@typed/test": "7.2.1"
   }
 }
