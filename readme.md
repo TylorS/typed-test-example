@@ -1,12 +1,12 @@
-# @typed/test Browser Example
+# @typed/test Example
 
 ## Run the tests
 ```sh
 ## Clone this repository
-git clone https://github.com/tylors/typed-test-browser-example
+git clone https://github.com/tylors/typed-test-example
 
 ## Change directory
-cd typed-test-browser-example
+cd typed-test-example
 
 ## Install dependencies (see package.json)
 ### With Yarn
