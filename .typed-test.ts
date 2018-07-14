@@ -1,7 +1,13 @@
 import { Options } from '@typed/test'
 
-const options: Options = {
-  mode: 'browser'
+const node: Options = {
+  mode: 'node',
+  files: ['source/**/*.test.ts']
 }
 
-export default options
+const browser: Options = {
+  mode: 'browser',
+  files: ['source/**/*.browser-test.ts']
+}
+
+export default [node, browser]
